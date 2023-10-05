@@ -3,8 +3,8 @@ public class Multiply{
    public static void main(String [] args){
 
 
-   int a=10;
-   int b=00;
+   int a=0;
+   String b="davinder";
  System.out.println("The mult is :"+a*b );
 
     }
